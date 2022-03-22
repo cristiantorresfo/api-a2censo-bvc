@@ -26,3 +26,4 @@ Después de ejecutar los pasos anteriores sin ningún error y los contenedores d
 ```sh
 http://localhost:8080/swagger-ui.html
 ```
+![image](https://user-images.githubusercontent.com/87150141/159527667-47b9f5a7-d0b5-4e45-8f8d-b1c3dcc5fd3a.png)
